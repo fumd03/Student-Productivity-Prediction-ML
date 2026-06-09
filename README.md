@@ -1,6 +1,6 @@
-Student CGPA Prediction Using Machine Learning
+# Student CGPA Prediction Using Machine Learning
 
-Overview
+## Overview
 
 This project is a full-stack machine learning application that predicts a student's **CGPA** based on lifestyle and academic behavior factors. It combines a trained ML regression model with a **React frontend** to provide an interactive prediction system.
 
